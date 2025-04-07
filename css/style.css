@@ -5,3 +5,15 @@ h1
 {
 color: aqua;
 }
+h3{
+    color: blueviolet;
+    text-align: center;
+}
+ul{
+    color: black;
+}
+img{
+    height: 400px;
+    width: 500px;
+    border-radius: 89cap;
+}
